@@ -12,8 +12,6 @@ Características
 - **Validación de datos**: Previene entradas duplicadas y campos vacíos
 - **Límite configurable**: Máximo 10 participantes por sorteo
 - **Sorteo aleatorio**: Algoritmo justo para seleccionar participantes
-- **Responsive design**: Funciona en dispositivos móviles y de escritorio
-- **Sin dependencias**: Solo HTML, CSS y JavaScript vanilla
 
 Funcionalidades
 
