@@ -33,13 +33,6 @@ Funcionalidades
 - El resultado se muestra con un mensaje festivo
 - El sorteo es completamente aleatorio y justo
 
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura semántica y accesible
-- **CSS3**: Estilos modernos con variables CSS y diseño responsive
-- **JavaScript ES6+**: Lógica de programación y manipulación del DOM
-- **Google Fonts**: Tipografías Inter y Merriweather
-
 ## Estructura del Proyecto
 
 ```
@@ -54,12 +47,12 @@ challenge-amigo-secreto_esp-main/
 ```
 
 ## Cómo Usar
-## 🎯 Cómo Usar
+
 
 1. **Abrir la aplicación**: Abre `index.html` en tu navegador web
 2. **Agregar participantes**: 
    - Escribe el nombre en el campo de texto
-   - Haz clic en "Añadir" o presiona Enter
+   - Haz clic en "Añadir"
 3. **Verificar la lista**: Los nombres aparecerán numerados debajo
 4. **Realizar el sorteo**: Haz clic en "Sortear amigo" cuando estés listo
 5. **Ver el resultado**: El amigo secreto seleccionado se mostrará en pantalla
