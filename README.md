@@ -1,6 +1,6 @@
 Amigo Secreto
 
-Una aplicación web interactiva para realizar sorteos de "Amigo Secreto" de manera divertida y fácil. Desarrollada con HTML, CSS y JavaScript vanilla.
+Una aplicación web interactiva para realizar sorteos de "Amigo Secreto" de manera divertida y fácil. 
 
 Descripción
 
