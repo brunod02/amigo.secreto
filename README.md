@@ -33,12 +33,6 @@ Funcionalidades
 - El resultado se muestra con un mensaje festivo
 - El sorteo es completamente aleatorio y justo
 
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura semántica y accesible
-- **CSS3**: Estilos modernos con variables CSS y diseño responsive
-- **JavaScript ES6+**: Lógica de programación y manipulación del DOM
-- **Google Fonts**: Tipografías Inter y Merriweather
 
 ## Estructura del Proyecto
 
@@ -53,7 +47,7 @@ challenge-amigo-secreto_esp-main/
 └── README.md          # Documentación
 ```
 
-## 🎯 Cómo Usar
+## Cómo Usar
 
 1. **Abrir la aplicación**: Abre `index.html` en tu navegador web
 2. **Agregar participantes**: 
